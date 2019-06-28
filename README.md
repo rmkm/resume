@@ -1,1 +1,1 @@
-My resume https://rmkm.github.io/resume/.
+My resume https://rmkm.github.io/resume/
