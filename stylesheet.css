@@ -3,13 +3,13 @@
     padding: 0;
 }
 #address {
-    font-size: 1rem;
+    font-size: 1.1rem;
     /*margin-top: -1em;*/
     margin-bottom: 3rem;
 }
 
 .entry {
-    width: 78%;
+    width: 1160px;
 }
 .left {
     text-align: left;
@@ -34,7 +34,7 @@ h1 {
 }
 
 h2 {
-    width: 80%;
+    width: 1200px;
     padding-bottom: 0.2rem;
     border-bottom: 5px solid #86265c;
     font-size: 1.8rem;
@@ -49,5 +49,6 @@ h3 {
 }
 
 ul {
+    font-size: 1.1rem;
     margin-left: 2rem;
 }
